@@ -5,8 +5,8 @@ const cors = require('cors');
 const bookRoutes = require('./routes/book-routes');
 
 var corsOptions = {
-    origin: 'http://localhost:4200',
-    methods: 'GET, POST, PUT, PATCH, DELETE, HEAD',
+    origin: 'https://bms-80ob.onrender.com',
+    methods: 'GET, POST, PUT, PATCH, DELETE',
     credentials: true,
 }
 
