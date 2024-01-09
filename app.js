@@ -5,7 +5,7 @@ const cors = require('cors');
 const bookRoutes = require('./routes/book-routes');
 
 var corsOptions = {
-    origin: 'https://bms-80ob.onrender.com',
+    origin: 'https://bmsapp.netlify.app',
     methods: 'GET, POST, PUT, PATCH, DELETE',
     credentials: true,
 }
