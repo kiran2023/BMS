@@ -24,3 +24,16 @@ Title - Author - Genre - Publication - Description
 
 ##### Visit 👇
 https://bmsapp.netlify.app/home
+
+#### Snippets
+##### Landing Page
+<img width="955" alt="image" src="https://github.com/kiran2023/BMS/assets/88279441/5e3b44fe-74a7-402f-8d03-88f6e483617e">
+
+##### Search Book Page
+<img width="948" alt="image" src="https://github.com/kiran2023/BMS/assets/88279441/ed3c9f2c-83a5-4dff-abc0-8e35acff47e7">
+
+##### Add Book Page
+<img width="954" alt="image" src="https://github.com/kiran2023/BMS/assets/88279441/a0271b8e-958c-4865-9d78-ac716dc1d441">
+
+
+
